@@ -1,10 +1,12 @@
 # Roadmap Backend
 
-Este Roadmap esta inspirado en el roadmap de [roadmap.sh](https://roadmap.sh/backend) . 
+Este Roadmap es obtenido de [roadmap.sh](https://roadmap.sh/backend) . 
 
 Es importante tener una ruta de que cosas aprender y en que orden. De esta forma puedo centralizar en un repositorio mis avances y que cosas modifique para mi roadmap.
 
 Quiero aclarar que tengo conocimientos previos en administracion de sistemas, lenguajes de programacion, y programacion web en general.
+
+Marcare las fechas en las cuales 
 
 ----
 
@@ -84,6 +86,12 @@ Quiero aclarar que tengo conocimientos previos en administracion de sistemas, le
 - [ ] GraphQL
   - [ ] Apollo
   - [ ] Relay Modern
-- [ ] Bases de datos Graph
-  - [ ] Neo4j
-- [ ] 
+- [ ] Web Servers
+  - [ ] Apache
+  - [ ] Nginx
+- [ ] Construccion por Escalas o Contruccion Escalada
+  - [ ] Estrategias de Migracio (Degradacion Agraciada, estrangulamiento, contraprecion, cambio de carga, cortacircuitos)
+  - [ ] Entender la diferencia (insrtumentacion, monitoreo, telemetria)
+  - [ ] Escalado vertical y horizontal
+  - [ ] Construir teniendo en cuata la observabilidad: registro de metricas y otros valores observables que podrian ayudar a debugear y resolver los problemas cunado las cosas van mal.
+
