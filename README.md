@@ -1,12 +1,14 @@
 # Roadmap Backend
 
-Es importante tener una ruta de que cosas aprender y en que orden. De esta forma puedo centralizar en un repositorio mis avances y que cosas modifique para mi readmap.
+Este Roadmap esta inspirado en el roadmap de [roadmap.sh](https://roadmap.sh/backend) . 
+
+Es importante tener una ruta de que cosas aprender y en que orden. De esta forma puedo centralizar en un repositorio mis avances y que cosas modifique para mi roadmap.
 
 Quiero aclarar que tengo conocimientos previos en administracion de sistemas, lenguajes de programacion, y programacion web en general.
 
 ----
 
-- [ ] Internet
+- [x] Internet
   - [ ] Como trabaja internet (redes)
   - [ ] Navegador (aplicaciones que usan la Red)
   - [ ] DNS, nombres de dominio
