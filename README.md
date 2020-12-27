@@ -12,31 +12,31 @@ Marcare las fechas en las cuales
 
 - [x] Internet
   - [ ] Como trabaja internet (redes)
-  - [ ] Navegador (aplicaciones que usan la Red)
-  - [ ] DNS, nombres de dominio
-  - [ ] Que es HTTP?
+  - [x] Navegador (aplicaciones que usan la Red)
+  - [x] DNS, nombres de dominio
+  - [x] Que es HTTP?
   - [ ] Que es un hosting?
-- [ ] Conocimientos basicos del frontend
-  - [ ] HTML, CSS, JavaScript
-- [ ] Administracion basica de linux
-  - [ ] Terminal
-  - [ ] Como funciona el SO en general
+- [x] Conocimientos basicos del frontend
+  - [x] HTML, CSS, JavaScript
+- [x] Administracion basica de linux
+  - [x] Terminal
+  - [x] Como funciona el SO en general
   - [ ] Manejo de procesos
   - [ ] Concurrencia
   - [ ] Manejo de memoria
   - [ ] Redes (Basico)
   - [ ] Manejo de E/S
 - [ ] Lenguajes
-  - [ ] PHP
-  - [ ] JavaScript (nodejs)
+  - [x] PHP
+  - [x] JavaScript (nodejs)
   - [ ] NPM
   - [ ] Python
 - [ ] Control de Verciones
-  - [ ] Basico uso de GIT
-  - [ ] GitHub / GitLab
-- [ ] Bases de Datos relacionales
+  - [x] Basico uso de GIT
+  - [x] GitHub / GitLab
+- [x] Bases de Datos relacionales
   - [ ] PostgreSQL
-  - [ ] MariaBD / MySQL
+  - [x] MariaBD / MySQL
 - [ ] Mas sobre Base de Datos
   - [ ] ORMs (orquetadores)
   - [ ] ACID (**A**tomicity, **C**onsistency, **I**solation and **D**urability: Atomicidad, Consistencia, Aislamiento y Durabilidad)
